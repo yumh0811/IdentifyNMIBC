@@ -1,6 +1,6 @@
 # IdentifyNMIBC
 
-This package provides two Pearson nearest-centroid classification based on DNA methylation array data:
+This package provides two Pearson nearest-centroid classifications based on DNA methylation array data:
 
 1)  *IdentifyMethyl* intended for assigning class labels to single samples according to the three BCPP methylation subgroups of non-muscle-invasive bladder cancer (NMIBC): M1, M2 and M3.
 
