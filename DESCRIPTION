@@ -1,0 +1,13 @@
+Package: IdentifyNMIBC
+Title: Molecular classification of non-muscle-invasive bladder cancer samples based on methylation values from Infinium HumanMethylation450 BeadChip (HM450K)
+Version: 1.0.0
+Author: Minghao Yu 
+Maintainer: Minghao Yu <MXY000@bham.ac.uk>
+Description: This package provides a Pearson nearest-centroid classification that assigns class labels to single samples according to the three BCPP methylation subgroups or four UROMOL2021 classes of non-muscle-invasive bladder cancer (NMIBC).
+License: GLP
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
