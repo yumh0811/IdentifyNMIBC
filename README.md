@@ -8,7 +8,8 @@ This package provides two Pearson nearest-centroid classifications based on DNA 
 
 ## Citation
 
-Please cite xxx. DOI: xxx
+Please cite: M. Yu, A. Goel, B. Tura et al., Towards Epigenetic-based Subtyping of Bladder Cancer: DNA Methylation Predicts Molecular
+Subtypes of Non–muscle-invasive Bladder Cancer, Eur Urol (2025), https://doi.org/10.1016/j.eururo.2025.02.011
 
 ## Install
 
